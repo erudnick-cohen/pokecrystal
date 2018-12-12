@@ -24,6 +24,9 @@ RadioTower5F_MapScriptHeader:
 
 .DummyScene2:
 	end
+	
+.DummyScene3:
+	end
 
 FakeDirectorScript:
 	spriteface RADIOTOWER5F_DIRECTOR, UP
